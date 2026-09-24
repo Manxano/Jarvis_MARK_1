@@ -15,7 +15,7 @@ import subprocess
 # CONFIGURACIÓN
 # ============================================================
 
-ESP32_IP = "192.168.1.29"
+ESP32_IP = "10.129.42.191"
 MICROFONO = 1
 
 MP3_FILE = "jarvis_respuesta.mp3"

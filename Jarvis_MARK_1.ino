@@ -11,8 +11,8 @@
 // WIFI
 // =========================================================
 
-const char* ssid = "fmamanzanocamargo";
-const char* password = "52815900Liz";
+const char* ssid = "vivo V30 Lite";
+const char* password = "davidsote";
 
 WiFiServer server(80);
 
